@@ -4,12 +4,8 @@ description: Demo
 author: XU
 website: xu-university.de
 
-main: com.xu.example.simpleCommand.SpigotPlugin
+main: com.xu.example.simpleListeners.SpigotPlugin
 
-commands:
-    beispiel:
-        description: Ein Beispiel-Befehl
-        permission: spigotplugin.example
-        usage: /<command>
+commands: {}
 
 permissions: {}
